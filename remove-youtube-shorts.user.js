@@ -3,7 +3,7 @@
 // @namespace    https://github.com/khi-ai
 // @version      0.1
 // @description  Removes YouTube Shorts Videos
-// @author       Steven Hall
+// @author       khi-ai
 // @match        http://*.youtube.com/*
 // @match        https://*.youtube.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=youtube.com
